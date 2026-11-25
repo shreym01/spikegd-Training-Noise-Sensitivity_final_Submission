@@ -1,0 +1,9 @@
+.vscode
+**/__pycache__
+experiments/mnist/data
+.ipynb_checkpoints/
+experiments/test_bench/output/
+experiments/local_rules/output/
+experiments/local_rules/logs/
+experiments/local_rules/bench_results/summary.csv
+experiments/capacity_bound/output/
